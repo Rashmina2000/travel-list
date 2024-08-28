@@ -1,6 +1,6 @@
-# Travel List
+# Travel-List
 
-Travel list is a must have application when you are a traveller.<br><br>
+Travel-list is a must have application when you are a traveler.<br><br>
 > 💡 <b>It has been built and deployed to AWS S3 using Jenkins CI/CD Pipeline. Use the following Medium article to get step by step guide.</b>
 <br>
 https://medium.com/@shasheenrashmina/build-and-deploy-reactjs-app-using-jenkins-ci-cd-pipeline-deploy-reactjs-app-to-s3-fa85a747cab4
